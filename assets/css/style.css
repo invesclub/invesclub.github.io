@@ -1423,3 +1423,13 @@ label.margin-toggle:not(.sidenote-number) {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+/* COSTUMIZED BY MEH */
+
+.notes-page-tagline {
+    color: #888888;
+    margin-top: -17px;
+    color: #888888;
+    font-size: 0.67rem;
+    font-weight: 300;
+}
