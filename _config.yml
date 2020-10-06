@@ -1,12 +1,12 @@
 title: Invesclub
 name: Invesclub
 user_description: langkah kecil menuju masa depan
-notes_url: "https://invesclub.github.io/"
+notes_url: "https://inves.club"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
 copyright_name: Invesclub
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://invesclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://inves.club" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
@@ -32,8 +32,8 @@ collections:
       output: true
       permalink: /note/:title
 
-disqus:
-  shortname: raghuveerdotnet
+# disqus:
+#  shortname: invesclub-kalau-udah-bikin
 
 defaults:
   - scope:
