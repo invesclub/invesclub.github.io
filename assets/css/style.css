@@ -36,9 +36,9 @@ body {
 }
 
 .box {
-    border-left: 1px solid #f7f7f7;
-    border-right: 1px solid #f7f7f7;
-    border-bottom: 1px solid #f7f7f7;
+    border-left: 1px solid #f8f9fa;
+    border-right: 1px solid #f8f9fa;
+    border-bottom: 1px solid #f8f9fa;
     width: 60%;
     position: absolute;
     top: 0px;
@@ -148,7 +148,7 @@ code {
 
 .regular-sans code {
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
     border-radius: 5px;
     border: none;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
@@ -156,7 +156,7 @@ code {
 
 .serif code {
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
     border-radius: 5px;
     border: none;
     font-family: 'EB Garamond', Georgia, serif !important;
@@ -172,7 +172,7 @@ pre code {
     padding: 15px 15px  15px 15px;
     vertical-align:middle;
     width: 90%;
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
     border: 1px solid #e9e9e9;
     border-radius: 5px;
     color: #555;
@@ -238,11 +238,11 @@ tr {
 }
 
 thead tr:nth-child(odd) {
-    background-color: #f7f7f7; 
+    background-color: #f8f9fa; 
 }
 
 tbody tr:nth-child(even) {
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
 }
 
 hr {
@@ -255,7 +255,7 @@ hr {
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
 
 .site-heading {
-    border-bottom: 2px solid #f7f7f7;
+    border-bottom: 2px solid #f8f9fa;
     flex: 0 0 20px;
     align-self: stretch;
     align-content: flex-end;
@@ -304,14 +304,14 @@ hr {
 
 
 .dashboard {
-    border-bottom: 2px solid #f7f7f7;
+    border-bottom: 2px solid #f8f9fa;
     width: 100%;
     display: flex;
     flex-direction: column;
 }
 
 .userboard {
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
     width: 100%;
 }
 
@@ -364,7 +364,7 @@ hr {
 }
 
 .main-site-subheader {
-    border-bottom: 1px solid #f7f7f7;
+    border-bottom: 1px solid #f8f9fa;
     padding-left: 15px;
 }
 
@@ -376,7 +376,7 @@ hr {
     vertical-align: middle;
     display: inline-block;
     justify-content: center;
-    border-right: 1px solid #f7f7f7;
+    border-right: 1px solid #f8f9fa;
     color: #555555; 
 }
 
@@ -425,7 +425,7 @@ hr {
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
 
 .notes-page-subheader {
-    border-bottom: 1px solid #f7f7f7;
+    border-bottom: 1px solid #f8f9fa;
     padding-left: 15px;
 }
 
@@ -509,7 +509,7 @@ hr {
 }
 
 .default-background {
-    background-color: #f7f7f7 !important;
+    background-color: #f8f9fa !important;
 }
 
 .large {
@@ -559,7 +559,7 @@ hr {
 .boxit {
 
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
     border-radius: 5px;
 }
 
@@ -609,8 +609,8 @@ hr {
     font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
-    border-bottom: 1px solid #f7f7f7;
-    background-color: #f7f7f7;
+    border-bottom: 1px solid #f8f9fa;
+    background-color: #f8f9fa;
 }
 
 ::placeholder {
@@ -629,7 +629,7 @@ hr {
 }
   
 .searchbar input[type="text"]:focus {
-    border-color: #f7f7f7;
+    border-color: #f8f9fa;
     box-shadow: 0 0 8px 0 #A7D0EB;
 }
   
@@ -686,12 +686,12 @@ hr {
 .feed-title-excerpt-block {
     width: 100%;
     cursor: pointer;
-    border-top: 1px solid #f7f7f7;
-    border-bottom: 1px solid #f7f7f7;
+    border-top: 1px solid #f8f9fa;
+    border-bottom: 1px solid #f8f9fa;
 }
 
 .feed-title-excerpt-block:hover {
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
 }
 
 .srccode {
@@ -745,7 +745,7 @@ hr {
 
 .tag {
     color: #555555;
-    background: #f7f7f7;
+    background: #f8f9fa;
     text-decoration: none;
     display: inline-block;
     padding: 0 12px;
@@ -976,7 +976,7 @@ label.srs-toggle {
 }
 
 .related {
-    background-color: #f7f7f7;
+    background-color: #f8f9fa;
     width: 100%;
     min-height: 100px;
     border-radius: 10px;
