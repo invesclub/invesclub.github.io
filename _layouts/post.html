@@ -13,12 +13,12 @@
     <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <title>{{ page.title }} | {{site.title}}</title>
     {%- else -%}
     <meta content="website" property="og:type">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <title>{{ page.title }} - {{site.title}}</title>
     {%- endif -%}
-
-    <title>{{site.title}}</title>
 
     <link rel="canonical" href="{{site.url}}{{page.url}}"/>
     <link rel="apple-touch-icon" href="{{site.profile_pic}}">
