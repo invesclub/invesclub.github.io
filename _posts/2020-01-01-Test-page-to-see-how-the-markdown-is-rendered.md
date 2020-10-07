@@ -1,5 +1,5 @@
 ---
-title: Test page to see how the raw markdown is rendered
+title: Test page to see how things work
 tags: markdown 
 comments: true
 ---
