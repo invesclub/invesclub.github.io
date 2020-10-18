@@ -10,7 +10,7 @@ Rumusnya adalah sebagai berikut:
 
 Keterangan:
 - Price: Harga saham
-- EPS: Laba bersih per saham (Earning per Share)
+- EPS: Laba bersih per saham _(Earning per Share)_
 
 Referensi [[
 1. Adam Hayes, Price-to-Earnings Ratio – P/E Ratio, https://www.investopedia.com/terms/p/price-earningsratio.asp, diakses 18 Oktober 2020
