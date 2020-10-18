@@ -6,9 +6,7 @@ _Price to Earning Ratio_ (biasa disingkat P/E Ratio atau PER) adalah perbandinga
 
 Rumusnya adalah sebagai berikut:
 
-\$$PER = \frac{Price}{EPS}$$ will render as :
-
-$$P(A|B) = \frac{P(B | A)\cdot P(A)}{P(B)}$$
+\$$PER = \frac{Price}{EPS}$$ 
 
 Keterangan:
 - Price: Harga saham
