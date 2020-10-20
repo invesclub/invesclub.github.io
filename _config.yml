@@ -30,7 +30,7 @@ sass:
 collections:
     notes:
       output: true
-      permalink: /note/:title
+      permalink: /n/:title
 
 # disqus:
 #  shortname: invesclub-kalau-udah-bikin
@@ -41,7 +41,7 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /post/:title
+      permalink: /p/:title
       content-type: post
   - scope:
       path: ""
