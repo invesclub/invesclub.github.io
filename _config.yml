@@ -37,7 +37,7 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "/profiles"
       type: posts
     values:
       layout: post
