@@ -4,5 +4,5 @@
 
 layout: post
 title: Tumbuh Bersama
-permalink: /
+permalink: /profiles
 ---
