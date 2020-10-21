@@ -1,7 +1,7 @@
 ---
 layout: post
-title: By Tags
-permalink: /tags/
+title: Sektoral
+permalink: /sektor/
 content-type: eg
 ---
 
